@@ -10,4 +10,8 @@ public class UserController : ControllerBase
         var users = new List<string> { "Alice", "Bob", "Charlie" };
         return Ok(users);
     }
+
+    [HttpPost]
+            
+    
 }
