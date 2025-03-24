@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Nest24\\deploy fe\\frontend\\CTU_CHAT_APP_ASP.NET\\MyAspNetBackend\\wwwroot\\images\\products\\3c379341-b772-47c6-bf9e-be8f85082fe2.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\3c379341-b772-47c6-bf9e-be8f85082fe2.jpg"
+    },
+    {
+      "Id": "D:\\Nest24\\deploy fe\\frontend\\CTU_CHAT_APP_ASP.NET\\MyAspNetBackend\\wwwroot\\images\\products\\b84728d1-b2c0-4a64-8130-73cd5bbb5e5b.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\b84728d1-b2c0-4a64-8130-73cd5bbb5e5b.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.MyAspNetBackend.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.MyAspNetBackend.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.MyAspNetBackend.props",
+      "PackagePath": "build\\MyAspNetBackend.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.MyAspNetBackend.props",
+      "PackagePath": "buildMultiTargeting\\MyAspNetBackend.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.MyAspNetBackend.props",
+      "PackagePath": "buildTransitive\\MyAspNetBackend.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
